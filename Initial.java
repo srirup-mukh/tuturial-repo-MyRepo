@@ -15,9 +15,7 @@ public class Initial{
 		return "get to the point";
 	}
 
-	public String allow(){
-		return "allow";
-	}
+	
 
 	public String nowGetStraightToThePoint(){
 		return "the string";
