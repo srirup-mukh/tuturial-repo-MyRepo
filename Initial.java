@@ -1,16 +1,20 @@
-public class Initial(){
+public class Initial{
 	
-	public void displayMessage(String name){
+	public static void displayMessage(String name){
 		System.out.println("hello good evening, "+name);
 	}
 
 	public static void main(){
-		displayeMessage("Suresh");
+		displayMessage("Suresh");
 		//test
 	}
 	public String getToThePoint(){
 		int x;
 		String y;
+		float z;
 		return "get to the point";
+	}
+	public String allow(){
+		return "allow";
 	}
 }
