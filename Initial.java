@@ -13,4 +13,7 @@ public class Initial(){
 		String y;
 		return "get to the point";
 	}
+	public void nowGetStraightToThePoint(){
+		return "the string";
+	}
 }
