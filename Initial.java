@@ -9,6 +9,7 @@ public class Initial(){
 		//test
 	}
 	public String getToThePoint(){
+		int x;
 		return "get to the point";
 	}
 }
