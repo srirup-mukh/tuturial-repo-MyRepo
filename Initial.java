@@ -9,6 +9,6 @@ public class Initial(){
 		//test
 	}
 	public String getToThePoint(){
-		return "get to the point"
+		return "get to the point";
 	}
 }
