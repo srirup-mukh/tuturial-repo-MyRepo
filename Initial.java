@@ -23,12 +23,4 @@ public class Initial{
 		return "the string";
 
 	}
-	
-	public String bye(){
-		return "bye";
-	}
-
-	public String hello(){
-		return "hello";
-	}
 }
