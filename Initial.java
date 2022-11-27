@@ -27,4 +27,8 @@ public class Initial{
 	public String bye(){
 		return "bye";
 	}
+
+	public String hello(){
+		return "hello";
+	}
 }
