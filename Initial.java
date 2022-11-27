@@ -21,5 +21,6 @@ public class Initial{
 
 	public String nowGetStraightToThePoint(){
 		return "the string";
+		///sss;
 	}
 }
