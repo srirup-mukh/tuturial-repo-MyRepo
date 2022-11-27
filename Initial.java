@@ -8,4 +8,7 @@ public class Initial(){
 		displayeMessage("Suresh");
 		//test
 	}
+	public String getToThePoint(){
+		return "get to the point"
+	}
 }
