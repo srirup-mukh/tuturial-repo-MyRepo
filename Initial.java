@@ -10,6 +10,7 @@ public class Initial(){
 	}
 	public String getToThePoint(){
 		int x;
+		String y;
 		return "get to the point";
 	}
 }
