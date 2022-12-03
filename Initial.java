@@ -25,4 +25,5 @@ public class Initial{
 	public int asampleMethod(){
 		return 67;
 	}
+	//just adding a comment to create a merge conflict in main.
 }
