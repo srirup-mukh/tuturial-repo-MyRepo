@@ -26,4 +26,8 @@ public class Initial{
 		return 67;
 	}
 	//just adding a comment to create a merge conflict in main.
+	
+	public void aMethodForTest(){
+
+	}
 }
