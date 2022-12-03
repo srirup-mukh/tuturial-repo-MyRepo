@@ -14,7 +14,7 @@ public class Initial{
 		float z;
 		return "get to the point";
 	}
-
+	//comment 2
 	public String nowGetStraightToThePoint(){
 		return "the string";
 		///sss;
