@@ -21,4 +21,8 @@ public class Initial{
 		///yyyy;
 	}
 	//just adding a comment
+
+	public int asampleMethod(){
+		return 67;
+	}
 }
