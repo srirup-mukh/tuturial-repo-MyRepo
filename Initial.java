@@ -25,4 +25,8 @@ public class Initial{
 	public int asampleMethod(){
 		return 67;
 	}
+	
+	public void aMethodForTest(){
+
+	}
 }
