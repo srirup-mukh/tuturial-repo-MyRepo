@@ -15,8 +15,6 @@ public class Initial{
 		return "get to the point";
 	}
 
-	
-
 	public String nowGetStraightToThePoint(){
 		return "the string";
 		///sss;
